@@ -1,4 +1,4 @@
-#Matrix multiplication using dynamic programming
+#Finding cost of matrix multiplication and parenthesization of matrices using dynamic programming
 
 def mat_mul(p):
     n=len(p)-1
